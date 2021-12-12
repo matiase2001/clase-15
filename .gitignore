@@ -1,0 +1,18 @@
+#dentro de gitignore armo una lista de objetos a ignorar
+
+#ignora archivosa de sistema Mac
+
+package-lock.json
+package.json
+
+#ignora carpetas 
+node_modules
+
+#ignorar subcarpetas
+
+nombrecarperta/archivo
+nombrecarpeta/nombresubcarpeta
+
+#ignorar todo los archivos con la misma extension
+
+*.txt
